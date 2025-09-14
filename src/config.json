@@ -139,7 +139,7 @@
         "Ray tracing is a rendering technique that can produce incredibly realistic lighting effects.",
         "Project to play around with C++17, Conan package manager, and math."
       ],
-      "imageUrl": "https://camo.githubusercontent.com/1a9e59b19de53d3372db2086b0b8c2ea9322d90b/68747470733a2f2f692e696d6775722e636f6d2f6a5547327736522e706e67",
+      "imageUrl": "https://raw.githubusercontent.com/notzain/raytracer/refs/heads/master/raytracer.png",
       "urls": [
         {
           "icon": "github",
